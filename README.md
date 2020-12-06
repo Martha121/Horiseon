@@ -1,2 +1,2 @@
-<hi align="center">Horiseon</h1>
+<hi aling="center">Horiseon</h1>
 
