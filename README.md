@@ -5,7 +5,7 @@ The page can be found at:
 <a href="https://martha121.github.io/Horiseon/Develop/"> martha121.github.io/Horiseon/Develop/</a>
 
 # Screenshot
-![Horiseon screenshot](../assets/images/horiseon-screenshot.jpg)
+![Horiseon screenshot](/Develop/assets/images/horiseon-screenshot.jpg)
 
 
 
